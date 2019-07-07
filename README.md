@@ -5,7 +5,7 @@
 - Centos 7.x
 - require root access
 
-###### Installation
+###### which will be installed
 - php 
 - httpd 
 - mariadb 
